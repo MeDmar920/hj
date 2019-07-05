@@ -12,4 +12,4 @@ client.user.setGame(`انا بلعب لعبة كلها هكات`,"http://twitch.
 client.user.setStatus("dnd")
 });
 
-client.login("NTg4MzI2NDk2NTc4MzA2MDU4.XR3aKQ.SA2Ouf96QuddCZ_8prQ5VtKKMYY");// لا تغير فيها شيء
+client.login("");// لا تغير فيها شيء
